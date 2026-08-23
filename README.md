@@ -13,6 +13,11 @@
 
 <hr>
 
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+<div align="center">
+
 <!-- Profile Views Section -->
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=xeno2410&label=Profile%20views&color=0e75b6&style=flat" alt="xeno2410" /> 
