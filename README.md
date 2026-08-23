@@ -6,12 +6,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&duration=1400&pause=500&color=008CFF&background=000000EE&center=true&multiline=true&width=1000&height=220&lines=Hola+Chicos+!;+Soy+Julian+;Bienvenidos+a+mi+Perfil" alt="Typing SVG">
 </a>
 
+<hr>
+
 <!-- Description -->
 <h3 align="center" style="color: #ffffff;">
   Passionate MERN Stack developer and AI/ML enthusiast from India
 </h3>
-
-<hr>
 
 <p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
