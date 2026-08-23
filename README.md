@@ -1,7 +1,7 @@
 
 <!-- Master Head Section -->
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=500&color=FF72FF&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=Hello+there+!;+I'm+Yogesh+;Welcome+to+my+GitHub+profile" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=500&color=FF72FF&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=Hello+there+!;+I'm+Yogesh+;Welcome+to+my+GitHub+profile" alt="Typing SVG">
 <h1 align="center" style="color: #ffffff;">Hi 👋, I'm Tarun Kumar Sharma</h1>
 <h3 align="center" style="color: #ffffff;">Passionate MERN Stack developer and AI/ML enthusiast from India</h3>
 
