@@ -20,7 +20,7 @@
 
 <!-- Profile Views Section -->
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=xeno2410&label=Profile%20views&color=0e75b6&style=flat" alt="JulianCPT" /> 
+  <img src="https://komarev.com/ghpvc/?username=JulianCPT&label=Profile%20views&color=0e75b6&style=flat" alt="JulianCPT" /> 
 </p>
 
 <!-- GitHub Profile Trophy -->
