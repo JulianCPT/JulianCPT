@@ -9,7 +9,7 @@
 
 <!-- Línea futurista azul -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=4&section=header" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F544FC&height=4&section=header" width="100%">
 </p>
 
 <!-- Typing SVG principal -->
@@ -24,22 +24,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=850&lines=ESTUDIANTE+DE+INGENIER%C3%8DA+MECATR%C3%93NICA;PROGRAMACI%C3%93N+%7C+AUTOMATIZACI%C3%93N+%7C+SISTEMAS+EMBEBIDOS;CONSTRUYENDO+EL+FUTURO+A+TRAV%C3%89S+DE+LA+INGENIER%C3%8DA+%E2%9A%A1" alt="Animación de Ingeniería">
 </p>
 
-<!-- Línea futurista azul -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=4&section=header" width="100%">
-</p>
 
-<!-- Mensaje personal -->
-<h3 align="center">
-  Daniela te amo fea 🤍
-</h3>
-
-<!-- Snake Game -->
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
-</p>
-
-<div align="center">
 
 <!-- ====================================================== -->
 <!--                        SOBRE MÍ                        -->
@@ -54,7 +39,7 @@
 
 <!-- Línea futurista azul -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00D7FF&height=4&section=header" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=4&section=header" width="100%">
 </p>
 
 <p align="center">
@@ -64,6 +49,14 @@
 <h3 align="center">
 Soy estudiante de Ingeniería Mecatrónica en la Universidad Militar Nueva Granada, sede Cajicá, actualmente en quinto semestre. Me apasiona la tecnología y el deporte: entreno tenis y disfruto aplicar la disciplina que me da en la cancha a mis proyectos académicos. Cuento con formación técnica en instalaciones eléctricas residenciales y estoy desarrollando habilidades en programación, automatización y sistemas embebidos. Mi objetivo es conectar la teoría con aplicaciones prácticas que aporten soluciones innovadoras en ingeniería y tecnología.
 </h3>
+
+<!-- Mensaje personal -->
+<h3 align="center">
+  Daniela te amo fea 🤍
+</h3>
+
+
+<div align="center">
 
 <br>
 <br>
@@ -79,7 +72,14 @@ Soy estudiante de Ingeniería Mecatrónica en la Universidad Militar Nueva Grana
 
 <!-- Línea futurista azul -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=4&section=header" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9BE9A8&height=4&section=header" width="100%">
+</p>
+
+<br>
+
+<!-- Snake Game -->
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
 </p>
 
 <br>
