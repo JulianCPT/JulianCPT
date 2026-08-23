@@ -55,12 +55,11 @@ Soy estudiante de Ingeniería Mecatrónica en la Universidad Militar Nueva Grana
   Daniela te amo fea 🤍
 </h3>
 
-<!-- Animación Cyberpunk -->
+<!-- Animación decorativa -->
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/animated/robot.gif"
-    width="250"
-    alt="Robot futurista"
+  <img
+    src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"
+    alt="Animación decorativa"
   />
 </p>
 
