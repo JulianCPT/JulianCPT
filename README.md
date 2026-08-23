@@ -15,7 +15,7 @@
 <!-- Typing SVG principal -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&duration=1400&pause=500&color=008CFF&background=000000EE&center=true&multiline=true&width=1000&height=220&lines=Hola+Chicos+!;+Soy+Julian+;Bienvenidos+a+mi+Perfil" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&duration=1400&pause=500&color=FFFF&background=000000EE&center=true&multiline=true&width=1000&height=220&lines=Hola+Chicos+!;+Soy+Julian+;Bienvenidos+a+mi+Perfil" alt="Typing SVG">
   </a>
 </p>
 
