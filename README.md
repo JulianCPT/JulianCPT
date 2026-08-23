@@ -54,7 +54,7 @@
 
 <!-- Línea futurista azul -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD7FF&height=4&section=header" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00D7FF&height=4&section=header" width="100%">
 </p>
 
 <p align="center">
