@@ -10,7 +10,7 @@
 
 <!-- Description -->
 <h3 align="center" style="color: #ffffff;">
-  Daniela te amo fea :green_heart:
+  Daniela te amo fea 🤍
 </h3>
 
 <p align="center">
