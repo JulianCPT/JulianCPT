@@ -50,9 +50,9 @@
 <!--                        SOBRE MÍ                        -->
 <!-- ====================================================== -->
 
-<h2 align="center">
+<h3 align="center">
   ⚡ SOBRE MÍ ⚡
-</h2>
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFFF&center=true&vCenter=true&width=800&lines=Ingenier%C3%ADa+%7C+Tecnolog%C3%ADa+%7C+Innovaci%C3%B3n;Transformando+ideas+en+soluciones+reales+%F0%9F%9A%80" alt="Animación sobre mí">
