@@ -1,5 +1,3 @@
-ingeniería futurista azul:
-
 <!-- ====================================================== -->
 <!--           JULIAN CPT - INGENIERÍA FUTURISTA           -->
 <!-- ====================================================== -->
@@ -26,7 +24,10 @@ ingeniería futurista azul:
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=008CFF&center=true&vCenter=true&width=850&lines=ESTUDIANTE+DE+INGENIER%C3%8DA+MECATR%C3%93NICA;PROGRAMACI%C3%93N+%7C+AUTOMATIZACI%C3%93N+%7C+SISTEMAS+EMBEBIDOS;CONSTRUYENDO+EL+FUTURO+A+TRAV%C3%89S+DE+LA+INGENIER%C3%8DA+%E2%9A%A1" alt="Animación de Ingeniería">
 </p>
 
-<hr>
+<!-- Línea futurista azul -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=008CFF&height=4&section=header" width="100%">
+</p>
 
 <!-- Mensaje personal -->
 <h3 align="center">
