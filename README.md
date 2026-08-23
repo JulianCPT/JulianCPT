@@ -24,14 +24,10 @@
   <img src="https://komarev.com/ghpvc/?username=JulianCPT&label=Profile%20views&color=0e75b6&style=flat" alt="JulianCPT" /> 
 </p>
 
-<!-- GitHub Profile Trophy -->
-<!-- <p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=JulianCPT&theme=onedark" alt="JulianCPT" />
-  </a> 
-</p> -->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=JulianCPT&theme=dracula&margin-w=30&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Description Section -->
+<h3 align="center" style="color: #ffffff;">
+Soy estudiante de Ingeniería Mecatrónica en la Universidad Militar Nueva Granada, sede Cajicá, actualmente en quinto semestre. Me apasiona la tecnología y el deporte: entreno tenis y disfruto aplicar la disciplina que me da en la cancha a mis proyectos académicos. Cuento con formación técnica en instalaciones eléctricas residenciales y estoy desarrollando habilidades en programación, automatización y sistemas embebidos. Mi objetivo es conectar la teoría con aplicaciones prácticas que aporten soluciones innovadoras en ingeniería y tecnología.
+</h3>
 
 <!-- Connect with Me Section -->
 <!-- <h3 align="left" style="color: #ffffff;">Connect with me:</h3>
