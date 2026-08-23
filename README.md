@@ -9,7 +9,7 @@
 
 <!-- Línea futurista azul -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=008CFF&height=4&section=header" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=4&section=header" width="100%">
 </p>
 
 <!-- Typing SVG principal -->
@@ -26,7 +26,7 @@
 
 <!-- Línea futurista azul -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFF&height=4&section=header" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=4&section=header" width="100%">
 </p>
 
 <!-- Mensaje personal -->
@@ -51,7 +51,7 @@
 
 <!-- Línea futurista azul -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFF&height=4&section=header" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=4&section=header" width="100%">
 </p>
 
 <p align="center">
@@ -73,7 +73,7 @@ Soy estudiante de Ingeniería Mecatrónica en la Universidad Militar Nueva Grana
 
 <!-- Línea futurista azul -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFF&height=4&section=header" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=4&section=header" width="100%">
 </p>
 
 <!-- ====================================================== --><!-- CONECTA CONMIGO --> <!-- ====================================================== --> <!-- <h2 align="left"> 🌐 CONECTA CONMIGO </h2> <p align="left"> <a href="TU_LINK_DE_LINKEDIN" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/> </a> </p> --> <!-- ====================================================== --> <!-- LENGUAJES Y HERRAMIENTAS --> <!-- ====================================================== --> 
