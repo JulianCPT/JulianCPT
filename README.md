@@ -1,30 +1,3 @@
-<div class="wave-loader">
-  <span></span><span></span><span></span><span></span><span></span>
-</div>
-
-<style>
-.wave-loader {
-  display: flex;
-  gap: 5px;
-}
-.wave-loader span {
-  width: 10px;
-  height: 30px;
-  background: #00f;
-  animation: wave 1s infinite ease-in-out;
-}
-.wave-loader span:nth-child(2) { animation-delay: 0.1s; }
-.wave-loader span:nth-child(3) { animation-delay: 0.2s; }
-.wave-loader span:nth-child(4) { animation-delay: 0.3s; }
-.wave-loader span:nth-child(5) { animation-delay: 0.4s; }
-
-@keyframes wave {
-  0%, 100% { transform: scaleY(0.5); }
-  50% { transform: scaleY(1.5); }
-}
-</style>
-
-
 <!-- Master Head Section -->
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
