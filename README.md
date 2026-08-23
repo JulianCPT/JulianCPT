@@ -13,9 +13,10 @@
 
 <hr>
 
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
 </p>
+
 <div align="center">
 
 <!-- Profile Views Section -->
@@ -26,16 +27,16 @@
 <!-- GitHub Profile Trophy -->
 <!-- <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=xeno2410&theme=onedark" alt="xeno2410" />
+    <img src="https://github-profile-trophy.vercel.app/?username=JulianCPT&theme=onedark" alt="JulianCPT" />
   </a> 
 </p> -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=XENO2410&theme=dracula&margin-w=30&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=JulianCPT&theme=dracula&margin-w=30&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- Connect with Me Section -->
 <!-- <h3 align="left" style="color: #ffffff;">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/tarun kumar sharma" target="blank">
+  <a href="https://linkedin.com/in/tarun-kumar-sharma" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarun kumar sharma" height="30" width="40" />
   </a>
 </p> -->
@@ -122,9 +123,9 @@
 <!-- GitHub Stats -->
 
 <p align="">
-  <a href="https://github.com/xeno2410">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xeno2410&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xeno2410&layout=compact&langs_count=8&theme=dracula"/>
+  <a href="https://github.com/JulianCPT">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JulianCPT&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JulianCPT&layout=compact&langs_count=8&theme=dracula"/>
   </a>
 </p>
 
@@ -163,6 +164,6 @@
 
 ---
 
-Credit: [xeno2410](https://github.com/xeno2410)
+Credit: [JulianCPT](https://github.com/JulianCPT)
 
-Last Edited on: 21/11/2024
+Last Edited on: 23/08/2026
