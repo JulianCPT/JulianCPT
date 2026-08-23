@@ -10,7 +10,7 @@
 
 <!-- Description -->
 <h3 align="center" style="color: #ffffff;">
-  Passionate MERN Stack developer and AI/ML enthusiast from India
+  Daniela te amo fea
 </h3>
 
 <p align="center">
