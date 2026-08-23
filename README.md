@@ -14,6 +14,8 @@
   Passionate MERN Stack developer and AI/ML enthusiast from India
 </h3>
 
+<hr>
+
 <!-- Profile Views Section -->
 <p align="left"> 
   <img 
